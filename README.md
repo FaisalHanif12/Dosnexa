@@ -154,20 +154,9 @@ npm start
 
 <br/>
 
-### 🛡️ License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-
-Terms and conditions for use, reproduction and distribution are under the [MIT License](https://opensource.org/license/mit/).
-
-<br/>
-
 ---
 
 <h3 align="center"> Give it a 🌟 if you 🧡 this repository </h3>
 
 ---
 
-<p align="right"><a href="#top">Back to Top</a></p>
-
-</div>
