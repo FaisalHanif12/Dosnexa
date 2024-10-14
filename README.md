@@ -118,29 +118,15 @@ npm start
 
 <img src="./client/src/images/profile.png" alt='profile'/>
 
-### All Doctors page
-
-<img src="./client/src/images/doctors.png" alt='doctors'/>
 
 ### Apply for doctor page
 
 <img src="./client/src/images/docapply.png" alt='applyfordoctor'/>
 
-### Admin all users dashboard
-
-<img src="./client/src/images/users.png" alt='users'/>
-
-### Admin all applications page
-
-<img src="./client/src/images/applications.png" alt='applications'/>
 
 ### Book Appointment page
 
 <img src="./client/src/images/bookappointment.png" alt='bookappointment'/>
-
-### Users all appointments page
-
-<img src="./client/src/images/userappointments.png" alt='appointments'/>
 
 ### Doctors all appointments page
 
